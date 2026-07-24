@@ -1,3 +1,4 @@
+Column1,Column2,Column3
 Table,Field,Description
 Customer Churn,CustomerID,A unique ID that identifies each customer
 Customer Churn,Gender,"The customer’s gender: Male, Female"
