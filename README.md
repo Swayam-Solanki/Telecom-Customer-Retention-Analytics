@@ -276,5 +276,5 @@ pip install -r requirements.txt
 
 Swayam B Solanki - [Swayam-Solanki](https://github.com/Swayam-Solanki)
 
-* **LinkedIn:** [placeholder_linkedin](https://linkedin.com)
-* **Email:** [placeholder_email@domain.com](mailto:placeholder_email@domain.com)
+* **LinkedIn:** (https://www.linkedin.com/in/swayam-solankiofficial/)
+* **Email:** [swayamsolanki2021@gmail.com]
